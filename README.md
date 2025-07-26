@@ -7,7 +7,7 @@ Sambega
 Repository ini berisi program dan dokumentasi penelitian **Tugas Akhir Sambega Shofiyyul Millah** yang mengimplementasikan integrasi dua PLC berbeda (Schneider TM221 & Siemens S7-1200) dengan protokol **Modbus TCP** dan **S7 Comm (ISO on TCP)** melalui platform **Wonderware InTouch SCADA** dan **KEPServerEX**.
 
 ## 🏗️ Struktur Repository
-- **PLC_Schneider_TM221/** → berisi program PLC Schneider TM221 dalam format `.stu`
+- **DISTRIBUTUION.smbp** → berisi program PLC Schneider TM221 dalam format `.smbp`
 - **PICKANDPLACE.ap14** → berisi program PLC Siemens S7-1200 dalam format `.ap14`
 - **SCADA_Wonderware/** → berisi project SCADA Wonderware InTouch dalam format `.aaPKG`
 - **Dokumentasi/** → berisi manual operasional, diagram arsitektur, dan dokumentasi teknis
