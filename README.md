@@ -8,7 +8,7 @@ Repository ini berisi program dan dokumentasi penelitian **Tugas Akhir Sambega S
 
 ## 🏗️ Struktur Repository
 - **PLC_Schneider_TM221/** → berisi program PLC Schneider TM221 dalam format `.stu`
-- **PLC_Siemens_S7-1200/** → berisi program PLC Siemens S7-1200 dalam format `.ap14`
+- **PICKANDPLACE.ap14** → berisi program PLC Siemens S7-1200 dalam format `.ap14`
 - **SCADA_Wonderware/** → berisi project SCADA Wonderware InTouch dalam format `.aaPKG`
 - **Dokumentasi/** → berisi manual operasional, diagram arsitektur, dan dokumentasi teknis
 
